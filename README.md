@@ -25,46 +25,45 @@ This is a personal portfolio website for Stanley Chiremba, showcasing projects, 
 
 ## Project Structure
  
-├── public/
-    ├── README.md 
-├── src/ 
-    ├── App.jsx
-    ├── index.css 
-    ├── main.jsx 
-    ├── 
-    ├── 
-    ├── assets/ 
-        ├── fonts/ 
-        ├── images/ 
-            ├── icons/ 
-            ├── projects/ 
-            ├── vector images/ 
-├── components/ 
-    ├── Footer.jsx 
-    ├── Form.jsx 
-    ├── Hero.jsx 
-    ├── Information.jsx 
-    ├── Navbar.jsx 
-    ├── Portfolio.jsx 
-    ├── ResponsiveNavbar.jsx 
-    ├── Skills.jsx 
-├── constants/ 
-    ├── index.jsx 
-├── pages/ 
-    ├── about.jsx 
-    ├── contact.jsx 
-    ├── home.jsx 
-    ├── projects.jsx 
-├── tailwind.config.js 
-├── vite.config.js
-├── eslint.config.js 
-├── index.html 
-├── package.json 
-├── postcss.config.js .gitignore 
-├── eslint.config.js 
-├── index.html 
-├── package.json 
-├── postcss.config.js
+├── public/  
+    ├── README.md   
+├── src/  
+    ├── App.jsx  
+    ├── index.css  
+    ├── main.jsx  
+    ├── assets/   
+        ├── fonts/   
+        ├── images/   
+            ├── icons/   
+            ├── projects/   
+            ├── vector images/   
+├── components/   
+    ├── Footer.jsx   
+    ├── Form.jsx   
+    ├── Hero.jsx   
+    ├── Information.jsx   
+    ├── Navbar.jsx   
+    ├── Portfolio.jsx   
+    ├── ResponsiveNavbar.jsx   
+    ├── Skills.jsx   
+├── constants/   
+    ├── index.jsx   
+├── pages/   
+    ├── about.jsx   
+    ├── contact.jsx   
+    ├── home.jsx   
+    ├── projects.jsx   
+├── tailwind.config.js   
+├── vite.config.js  
+├── eslint.config.js   
+├── index.html   
+├── package.json   
+├── postcss.config.js  
+├── .gitignore   
+├── eslint.config.js   
+├── index.html   
+├── package.json   
+├── postcss.config.js  
 
 ## Installation
 
@@ -73,15 +72,21 @@ This is a personal portfolio website for Stanley Chiremba, showcasing projects, 
    git clone https://github.com/binarysolutionss/portfolio.git
 
 2. Navigate to the project directory:
+   ```sh
    cd portfolio
 
-3. Install the dependencies
+4. Install the dependencies
+   ```sh
    npm install
 
 ## Usage
 
 To start the development server, run:
+
+```
 npm run dev
+```
+
 This will start the Vite development server and you can view the website at http://localhost:3000.
 
 ## Scripts
