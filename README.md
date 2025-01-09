@@ -2,7 +2,7 @@
 
 This is a personal portfolio website for Stanley Chiremba, showcasing projects, skills, and contact information. The website is built using React and Vite, with TailwindCSS for styling, and deployed with Vercel and is designed to be responsive, modern, and visually appealing, with a focus on providing a seamless user experience.
 
-![website poster](https://github.com/user-attachments/assets/bb2e067f-e870-4ffb-af2e-42ac30bbb925)
+![website poster](https://github.com/user-attachments/assets/6bed0a4a-d5ed-491c-af2c-4efbb79f0acd)
 
 ## Table of Contents
 
