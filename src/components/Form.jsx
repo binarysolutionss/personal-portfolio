@@ -44,7 +44,7 @@ const Form = () => {
                   href="mailto:chirembastan@gmail.com"
                   className="text-sky-400"
                 >
-                  chirembastan@gmail
+                  chirembastan@gmail.com
                 </a>
               </div>
             </div>
@@ -112,7 +112,7 @@ const Form = () => {
             <h4>Let's connect</h4>
             <p>
               Whether you need something done or you have got ideas and want us
-              to team up, It's that easy.
+              to team up, It's that easy!
             </p>
             <form
               onSubmit={handleSubmit} 
