@@ -111,7 +111,7 @@ const Form = () => {
           <div className="bg-sky-400 text-slate-900 font-bold p-4 rounded-xl flex flex-col gap-4 h-max sm:p-8 lg:p-12">
             <h4>Let's connect</h4>
             <p>
-              Whether it's for need somethind done or you got ideas and want us
+              Whether you need somethind done or you have got ideas and want us
               to team up, It's that easy.
             </p>
             <form
