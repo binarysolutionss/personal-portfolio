@@ -44,7 +44,7 @@ const Form = () => {
                   href="mailto:chirembastan@gmail.com"
                   className="text-sky-400"
                 >
-                  chirembastan@gmail
+                  chirembastan@gmail.com
                 </a>
               </div>
             </div>
@@ -60,7 +60,7 @@ const Form = () => {
                   href="https://github.com/binarysolutionss"
                   className="text-sky-400"
                 >
-                  binarysolutionss
+                  Stanley Chiremba
                 </a>
               </div>
             </div>
@@ -111,8 +111,8 @@ const Form = () => {
           <div className="bg-sky-400 text-slate-900 font-bold p-4 rounded-xl flex flex-col gap-4 h-max sm:p-8 lg:p-12">
             <h4>Let's connect</h4>
             <p>
-              Whether it's for need somethind done or you got ideas and want us
-              to team up, It's that easy.
+              Whether you need something done or you have got ideas and want us
+              to team up, It's that easy!
             </p>
             <form
               onSubmit={handleSubmit} 
