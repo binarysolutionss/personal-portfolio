@@ -67,9 +67,19 @@ const Portfolio = () => {
               >
                 {expanded[link.projectId] ? "Show Less" : "Show More"}
               </button>
-              <button className="rounded-lg px-6 py-3 font-bold bg-sky-400 text-slate-900 hover:bg-sky-300 self-center sm:p-6 sm:px-16 lg:p-2 lg:px-8">
-                <a href={link.githubRepo}>Github</a>
-              </button>
+
+              {link.liveLink && (
+                <button className="rounded-lg px-6 py-3 font-bold bg-green-400 text-slate-900 hover:bg-green-300 self-center sm:p-6 sm:px-16 lg:p-2 lg:px-8">
+                  <a href={link.liveLink}>View Live</a>
+                </button>
+              )}
+
+              {link.githubRepo && (
+                <button className="rounded-lg px-6 py-3 font-bold bg-sky-400 text-slate-900 hover:bg-sky-300 self-center sm:p-6 sm:px-16 lg:p-2 lg:px-8">
+                  <a href={link.githubRepo}>Github</a>
+                </button>
+              )}
+              
             </div>
           ))}
         </div>
