@@ -60,7 +60,7 @@ const Form = () => {
                   href="https://github.com/binarysolutionss"
                   className="text-sky-400"
                 >
-                  Stanley Chiremba
+                  binarysolutionss
                 </a>
               </div>
             </div>
@@ -76,7 +76,7 @@ const Form = () => {
                   href="https://www.linkedin.com/in/stanley-masimba-chiremba-1578061b7"
                   className="text-sky-400"
                 >
-                  binarysolutionss
+                  Stanley Chiremba
                 </a>
               </div>
             </div>
